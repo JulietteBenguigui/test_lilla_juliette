@@ -2,4 +2,6 @@ Test cours de git
 
 une nouvelle ligne
 
-Juliette et Maëlys, archivistes et astronautes, cataloguent les vestiges des civilisations extraterrestres. À bord de l’ISS-Nova, elles préservent l’histoire galactique. Entre scans et découvertes, elles contemplent la Terre. Leur mission : archiver l’infini. 🚀📚
+Juliette et Maëlys, archivistes et astronautes, cataloguent les vestiges des civilisations extraterrestres. À bord de l’ISS-Nova, elles préservent l’histoire galactique. Entre scans et découvertes, elles contemplent la Terre. Leur mission : archiver l’infini. 🚀
+code secret du portail spatio-temporel de la salle info : Python3
+ 70e18dcaafb679e5d1f83870c1fd56ae774babf8
