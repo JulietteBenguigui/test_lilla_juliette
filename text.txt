@@ -1,3 +1,5 @@
 Test cours de git
 
 une nouvelle ligne
+
+code secret du portail spatio-temporel de la salle info : Python3
